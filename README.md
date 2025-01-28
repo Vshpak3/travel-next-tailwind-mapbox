@@ -56,7 +56,7 @@ Travel Booking is a case study of a hotel reservation platform using Next.js and
 First, clone the project and open it with Visual Studio Code:
 
 ```bash
-git clone https://github.com/javigong/travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker.git
+git clone https://github.com/Vshpak3/travel-next-tailwind-mapbox.git
 
 cd travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker
 
@@ -140,4 +140,4 @@ The current Stripe Checkout implementation simulates payments in test mode.
 
 Travel Bookings deployed using Vercel: 
 
-[Deployment Activity Log](https://github.com/javigong/travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker/deployments/activity_log?environment=Production)
+[Deployment Activity Log](https://github.com/Vshpak3/travel-next-tailwind-mapbox/deployments/activity_log?environment=Production)
